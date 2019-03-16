@@ -6,7 +6,7 @@ To get the Node server running locally:
 
 - Clone this repository
 - `npm install` to install all required dependencies
-- `npm app.js` to start the local server
+- `node app.js` to start the local server
 
 ## Dependencies
 
