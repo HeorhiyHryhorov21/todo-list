@@ -11,6 +11,7 @@ To get the Node server running locally:
 ## Dependencies
 
 - [expressjs](https://github.com/expressjs/express) - The server for handling and routing HTTP requests
+- [mongoose](https://github.com/Automattic/mongoose) - For modeling and mapping MongoDB data to javascript 
 - [ejs](https://github.com/tj/ejs) - Embedded JavaScript templates
 
 ## Application Structure
