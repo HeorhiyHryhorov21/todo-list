@@ -1,4 +1,4 @@
-# ![Node/Express Todo-list App]
+# Node/Express Todo-list App
 
 # Getting started
 
